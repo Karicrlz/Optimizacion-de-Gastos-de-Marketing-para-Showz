@@ -1,2 +1,4 @@
-# Optimizacion-de-Gastos-de-Marketing-para-Showz
+# 🎫🎪Optimización de Gastos de Marketing para Showz ✨🎟️
 En este proyecto, trabajé con el departamento de analítica de Showz, una empresa dedicada a la venta de entradas para eventos. El objetivo principal fue analizar los gastos de marketing y proponer estrategias para optimizarlos, con el fin de mejorar la rentabilidad de la empresa y ofrecer experiencias más memorables a los asistentes.
+Se llevó a cabo un análisis detallado de los datos disponibles sobre las campañas de marketing pasadas, evaluando su impacto en las ventas y la efectividad de las inversiones. A partir de los resultados obtenidos, se generaron recomendaciones para ajustar y redistribuir los recursos de manera más eficiente, asegurando una mayor rentabilidad.
+Este análisis no solo impactó positivamente en la rentabilidad de la empresa, sino que también permitió mejorar la planificación de futuras campañas, garantizando mejores experiencias para el público y maximizando el retorno de inversión en marketing.
